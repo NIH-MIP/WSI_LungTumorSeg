@@ -19,4 +19,4 @@ The following steps for miniconda env set-up:
 	pip install semtorch
 
 Example inference:
-python -W ignore wsi_tumorsegment_simple.py --file_location "./example_images" --image_file "E125 1554 - 2021-08-06 15.07.53.ndpi" --save_name "E125-1554" --save_dir "./example_output"
+python -W ignore wsi_tumorsegment_simple.py --file_location "./example_images" --image_file "example.ndpi" --save_name "EX1" --save_dir "./example_output"
