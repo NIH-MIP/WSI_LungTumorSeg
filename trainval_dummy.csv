@@ -1,0 +1,17 @@
+img,label,is_valid
+/path/to/example_tiles/images/dummy1.png,/path/to/example_tiles/masks/dummy1.png,FALSE
+/path/to/example_tiles/images/dummy2.png,/path/to/example_tiles/masks/dummy2.png,FALSE
+/path/to/example_tiles/images/dummy3.png,/path/to/example_tiles/masks/dummy3.png,FALSE
+/path/to/example_tiles/images/dummy4.png,/path/to/example_tiles/masks/dummy4.png,FALSE
+/path/to/example_tiles/images/dummy5.png,/path/to/example_tiles/masks/dummy5.png,FALSE
+/path/to/example_tiles/images/dummy6.png,/path/to/example_tiles/masks/dummy6.png,FALSE
+/path/to/example_tiles/images/dummy7.png,/path/to/example_tiles/masks/dummy7.png,FALSE
+/path/to/example_tiles/images/dummy8.png,/path/to/example_tiles/masks/dummy8.png,FALSE
+/path/to/example_tiles/images/dummy9.png,/path/to/example_tiles/masks/dummy9.png,TRUE
+/path/to/example_tiles/images/dummy10.png,/path/to/example_tiles/masks/dummy10.png,TRUE
+/path/to/example_tiles/images/dummy11.png,/path/to/example_tiles/masks/dummy11.png,TRUE
+/path/to/example_tiles/images/dummy12.png,/path/to/example_tiles/masks/dummy12.png,TRUE
+/path/to/example_tiles/images/dummy13.png,/path/to/example_tiles/masks/dummy13.png,TRUE
+/path/to/example_tiles/images/dummy14.png,/path/to/example_tiles/masks/dummy14.png,TRUE
+/path/to/example_tiles/images/dummy15.png,/path/to/example_tiles/masks/dummy15.png,TRUE
+/path/to/example_tiles/images/dummy16.png,/path/to/example_tiles/masks/dummy16.png,TRUE
